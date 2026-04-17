@@ -1,4 +1,4 @@
-primer commit
+
 # Ejemplo y explicacion de for
 
 # for i in range(5):
