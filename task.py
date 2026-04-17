@@ -13,3 +13,4 @@ for i in name:
         c_consonants=c_consonants+1
 print("La cantidad de vocales es: ", c_vowels)
 print("La cantidad de consonantes es: ", c_consonants)
+print("Se actualizó")
