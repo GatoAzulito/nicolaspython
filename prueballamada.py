@@ -1,0 +1,2 @@
+from conjuntofunciones import variasfunciones
+variasfunciones()

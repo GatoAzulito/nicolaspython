@@ -1,4 +1,5 @@
-from ejercicios import shazam, usuario, contrasena
-shazam()
-usuario()
-contrasena()
+from carpetaejercicios.ejercicios import shazam, usuario, contrasena
+def variasfunciones():
+    shazam()
+    usuario()
+    contrasena()

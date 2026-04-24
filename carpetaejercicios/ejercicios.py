@@ -22,4 +22,6 @@ def contrasena():
         print("Contraseña correcta")
     else:
         print("Contraseña incorrecta")
-contrasena()
+
+# if __name__ == "__main__":
+#     contrasena()
